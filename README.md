@@ -22,5 +22,5 @@ This is a simple to-do list web application built using React.js. It allows user
 https://github.com/chpavan642/To-Do-List-.git
 
 
-Feel free to customize the README to include any additional information about your project, such as usage instructions, project structure, or deployment details. You can also include screenshots or GIFs to showcase the application's features.
+
 
